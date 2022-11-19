@@ -1,0 +1,38 @@
+/* Estilos de clases */
+
+.barraNavegacion{
+  background-color: #303030 !important;
+}
+
+.categoria{
+  color: white !important;
+  font-weight: 500;
+}
+
+.categoria:hover{
+  color: rgb(202, 59, 7) !important;
+}
+
+.logo{
+  color: white !important;
+}
+
+.logo:hover{
+  color: rgb(202, 59, 7) !important;
+}
+
+.carrito{
+  background-color: #e7e7e7;
+  color: #303030;
+  font-weight: 500;
+  margin-right: 5px;
+}
+
+.carrito:hover{
+  background-color: rgb(202, 59, 7);
+  color: white;
+}
+
+.carritoNum{
+  color: white;
+}
