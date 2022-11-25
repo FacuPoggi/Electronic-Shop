@@ -1,5 +1,5 @@
-import CartWidget from "../cartWidget/cartWidget";
-import Categorias from "./categorias/categorias";
+import CartWidget from "../CartWidget/CartWidget";
+import Categorias from "./Categorias/Categorias";
 const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light barraNavegacion">

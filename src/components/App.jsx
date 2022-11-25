@@ -1,11 +1,11 @@
 import './App.css';
-import ItemListContainer from './itemListContainer/itemListContainer';
-import Navbar from './navbar/navbar';
+import ItemListContainer from './ItemListContainer/ItemListContainer';
+import Navbar from './Navbar/Navbar';
 
 function App() {
   return (
     <>
-      <Navbar />
+      <Navbar/>
       <ItemListContainer greeting={"Productos"}/>
     </>
   );
