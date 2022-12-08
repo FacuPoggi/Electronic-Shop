@@ -6,11 +6,19 @@
 
 .categoria{
   color: white !important;
+  background-color: #303030;
+  border: 0;
+  text-decoration: none;
   font-weight: 500;
 }
 
 .categoria:hover{
   color: rgb(202, 59, 7) !important;
+}
+
+.navbar-brand{
+  background-color: #303030;
+  border: 0;
 }
 
 .logo{
@@ -35,4 +43,28 @@
 
 .carritoNum{
   color: white;
+}
+
+.cardProducto{
+  width: 18rem;
+  margin: 10px;
+}
+
+.cardProductos{
+  margin: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
+.itemDetail {
+  max-width: 540px;
+  margin-top: 20px;
+}
+
+.contadorIzq{
+  margin-right: 10px;
+}
+
+.contadorDer{
+  margin-left: 10px;
 }
