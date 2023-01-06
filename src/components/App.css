@@ -1,10 +1,11 @@
 /* Estilos de clases */
 
-.barraNavegacion{
+.barraNavegacion {
   background-color: #303030 !important;
 }
 
-.categoria{
+
+.categoria {
   color: white !important;
   background-color: #303030;
   border: 0;
@@ -12,45 +13,45 @@
   font-weight: 500;
 }
 
-.categoria:hover{
+.categoria:hover {
   color: rgb(202, 59, 7) !important;
 }
 
-.navbar-brand{
+.navbar-brand {
   background-color: #303030;
   border: 0;
 }
 
-.logo{
+.logo {
   color: white !important;
 }
 
-.logo:hover{
+.logo:hover {
   color: rgb(202, 59, 7) !important;
 }
 
-.carrito{
+.carrito {
   background-color: #e7e7e7;
   color: #303030;
   font-weight: 500;
   margin-right: 5px;
 }
 
-.carrito:hover{
+.carrito:hover {
   background-color: rgb(202, 59, 7);
   color: white;
 }
 
-.carritoNum{
+.carritoNum {
   color: white;
 }
 
-.cardProducto{
+.cardProducto {
   width: 18rem;
   margin: 10px;
 }
 
-.cardProductos{
+.cardProductos {
   margin: 5px;
   justify-content: center;
   align-items: center;
@@ -61,10 +62,56 @@
   margin-top: 20px;
 }
 
-.contadorIzq{
+.contadorIzq {
   margin-right: 10px;
 }
 
-.contadorDer{
+.contadorDer {
   margin-left: 10px;
+}
+
+.btnAgregar {
+  margin-left: 10px;
+}
+
+.formulario {
+  margin-top: 150px;
+}
+
+.darkMode {
+  background-color: rgb(15, 15, 15);
+}
+
+.cardBlack{
+  background-color: #303030;
+}
+
+.cardWhite{
+  background-color: white;
+}
+
+.textBlack{
+  color: white;
+}
+
+.textWhite{
+  color: black;
+}
+
+.btnBlack{
+  background-color: white;
+  color: #303030;
+}
+
+.btnWhite{
+  background-color: #212529;
+  color: white;
+}
+
+.labelBlack{
+  color: white;
+}
+
+.labelWhite{
+color: black;
 }

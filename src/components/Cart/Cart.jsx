@@ -1,10 +1,10 @@
-
+import { Link } from "react-router-dom";
 const Cart = () => {
     return (
         <>
             <h1>Proximos Productos Aqui</h1>
 
-            <button className="btn btn-dark">Finalizar Compra</button>
+            <Link to={'/checkout'} className="btn btn-dark">Finalizar Compra</Link>
         </>
     );
 }
