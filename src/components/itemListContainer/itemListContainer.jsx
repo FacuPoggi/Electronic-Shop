@@ -4,6 +4,7 @@ import { useParams } from "react-router-dom";
 import ItemList from "../ItemList/ItemList";
 import { consultarBDD } from "../../assets/funtions"
 
+import { cargarBDD } from "../../assets/firebase";
 //ItemListContainer consulta la BDD
 
 const ItemListContainer = ({ }) => {
@@ -27,6 +28,11 @@ const ItemListContainer = ({ }) => {
             })
         }
         
+
+        //cargarBDD().then(productos => console.log(productos));
+
+
+
     }, [category]);
 
 

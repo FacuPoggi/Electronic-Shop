@@ -115,3 +115,16 @@
 .labelWhite{
 color: black;
 }
+
+.textBlackNumber { 
+  color: white;
+}
+
+.textWhiteNumber{
+  color: black;
+}
+
+.contador{
+  display: flex;
+  align-items: center;
+}

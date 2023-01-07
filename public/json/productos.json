@@ -7,7 +7,7 @@
         "modelo": "Y510P",
         "precio": 60000,
         "stock": 30,
-        "img": "notebook-lenovo.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/electro-shop-67ad8.appspot.com/o/notebook-lenovo.jpg?alt=media&token=53846829-ecba-45e1-8ab5-dd6a1e27dbc3"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "modelo": "Mi-9",
         "precio": 35000,
         "stock": 20,
-        "img": "xiaomi-mi-9.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/electro-shop-67ad8.appspot.com/o/xiaomi-mi-9.jpg?alt=media&token=83eacc5e-df1d-43d0-81e8-37615787da4b"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "modelo": "50D1U",
         "precio": 57000,
         "stock": 15,
-        "img": "smart-tv-novatech.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/electro-shop-67ad8.appspot.com/o/smart-tv-novatech.jpg?alt=media&token=d044e494-a268-4aab-af54-400e5345e5ec"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "modelo": "C40",
         "precio": 8000,
         "stock": 30,
-        "img": "camara-iqual.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/electro-shop-67ad8.appspot.com/o/camara-iqual.jpg?alt=media&token=aa07f799-7ecc-4300-a5cb-8444f82ebc72"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "modelo": "G502",
         "precio": 1400,
         "stock": 7,
-        "img": "mouse-logitech.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/electro-shop-67ad8.appspot.com/o/mouse-logitech.jpg?alt=media&token=76519be9-1db0-494e-9370-6d45ec1dc90e"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "modelo": "Pulse",
         "precio": 4000,
         "stock": 20,
-        "img": "motorola-pulse.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/electro-shop-67ad8.appspot.com/o/motorola-pulse.jpg?alt=media&token=26c4a7b7-4ad4-4992-9514-ae01a8080905"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "modelo": "Iphone X Silver",
         "precio": 250000,
         "stock": 10,
-        "img": "iphone-x.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/electro-shop-67ad8.appspot.com/o/iphone-x.jpg?alt=media&token=03cc5f0b-5db6-4b2d-8321-513a70f43294"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "modelo": "32 Gb",
         "precio": 45000,
         "stock": 30,
-        "img": "apple-tv.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/electro-shop-67ad8.appspot.com/o/apple-tv.jpg?alt=media&token=f3bc9430-ef6f-4989-9ba2-6f889d019ad7"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "modelo": "SPK200",
         "precio": 34000,
         "stock": 21,
-        "img": "parlante-kalley.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/electro-shop-67ad8.appspot.com/o/parlante-kalley.png?alt=media&token=2fe8edfe-ef16-4fcd-b01a-a41494329f4e"
     },
     {
         "id": 10,
@@ -97,7 +97,7 @@
         "modelo": "M1 2020",
         "precio": 130000,
         "stock": 25,
-        "img": "mac-air.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/electro-shop-67ad8.appspot.com/o/mac-air.jpg?alt=media&token=6baca427-dfd5-4ec5-bbaa-9da1881da99d"
     },
     {
         "id": 11,
@@ -107,7 +107,7 @@
         "modelo": "S20",
         "precio": 85000,
         "stock": 30,
-        "img": "samsung-s20.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/electro-shop-67ad8.appspot.com/o/samsung-s20.jpg?alt=media&token=921a4a16-5902-45a7-8988-2b7331e163d3"
     },
     {
         "id": 12,
@@ -117,7 +117,7 @@
         "modelo": "Pavilion 15",
         "precio": 120000,
         "stock": 20,
-        "img": "hp-pavilion.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/electro-shop-67ad8.appspot.com/o/hp-pavilion.jpg?alt=media&token=d8832b6a-46f8-41b8-8a63-664648f5e45d"
     }
 
 ]

@@ -1,6 +1,9 @@
 import {useState} from 'react';
+import { useDarkModeContext } from '../../context/DarkModeContext';
 
 const ItemCount = ({inicial, stock, onAdd}) => {
+
+    const {darkMode} = useDarkModeContext()
 
     const [contador, setContador] = useState(inicial);
 
@@ -11,10 +14,10 @@ const ItemCount = ({inicial, stock, onAdd}) => {
     const agregarAlCarrito = () => onAdd(contador)
 
     return (
-        <div>
-            <button className='btn btn-dark contadorIzq' onClick={() => sumar()}>+</button>
-            {contador}
-            <button className='btn btn-dark contadorDer' onClick={() => restar()}>-</button>
+        <div className='contador'>
+            <button className='btn btn-dark contadorIzq' onClick={() => restar()}>-</button>
+            <div className={`${darkMode ? 'textBlackNumber' : 'textWhiteNumber'}`}>{contador}</div>
+            <button className='btn btn-dark contadorDer' onClick={() => sumar()}>+</button>
             <button className="btn btn-dark btnAgregar" onClick={agregarAlCarrito} ><i className='bx bxs-cart-add bx-sm'></i></button>
         </div>
     );
