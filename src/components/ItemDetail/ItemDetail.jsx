@@ -28,7 +28,7 @@ const ItemDetail = ({ item }) => {
                     <p className={`card-text ${darkMode ? 'textBlack' : 'textWhite'}`}>Stock: {item.stock}</p>
                     <ItemCount inicial={1} stock={item.stock} onAdd={onAdd} />
                     <br />
-                    <Link to={'/cart'} className="btn btn-dark">Finalizar Compra</Link>
+                    <Link to={'/cart'} className={`btn btn-dark ${darkMode ? 'btnBlack' : 'btnWhite' } `}>Finalizar Compra</Link>
                 </div>
             </div>
         </div>

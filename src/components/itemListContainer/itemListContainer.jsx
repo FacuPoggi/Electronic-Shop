@@ -31,10 +31,10 @@ const ItemListContainer = ({ }) => {
 
         //cargarBDD().then(productos => console.log(productos));
         //getProductos().then(productos => console.log(productos))
-        /* getProducto("0OQCvtnTlYaR4qcnyMV2").then(prod => {
-            prod.stock -= 5
+        /*getProducto("IMUhLeIOeQG7CQxMF97y").then(prod => {
+            prod.stock += 30
             updateProducto(prod.id, prod).then(estado => console.log(estado))
-        }) */
+        })*/
 
         //deleteProducto("0OQCvtnTlYaR4qcnyMV2").then(estado => console.log(estado))
 

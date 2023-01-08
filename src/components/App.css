@@ -14,7 +14,7 @@
 }
 
 .categoria:hover {
-  color: rgb(202, 59, 7) !important;
+  color: rgb(117, 117, 117) !important;
 }
 
 .navbar-brand {
@@ -27,23 +27,28 @@
 }
 
 .logo:hover {
-  color: rgb(202, 59, 7) !important;
+  color: rgb(117, 117, 117) !important;
 }
 
 .carrito {
-  background-color: #e7e7e7;
-  color: #303030;
+  color: white;
   font-weight: 500;
+  padding: 0;
   margin-right: 5px;
 }
 
 .carrito:hover {
-  background-color: rgb(202, 59, 7);
-  color: white;
+  color: rgb(117, 117, 117) !important;
+  font-weight: 500;
 }
 
 .carritoNum {
   color: white;
+  margin-right: 5px;
+}
+
+.carritoLugar{
+  align-items: center;
 }
 
 .cardProducto {
@@ -75,7 +80,7 @@
 }
 
 .formulario {
-  margin-top: 150px;
+  margin-top: 80px;
 }
 
 .darkMode {
@@ -134,5 +139,67 @@
 }
 
 .alertaCheckoutWhite {
-color: black;
+  color: black;
 }
+
+.carritoPosicion {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.carritoVacio {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cartContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cart {
+  display: flex;
+  flex-direction: row;
+  max-width: 640px;
+  margin-top: 50px;
+}
+
+.imgCart {
+  width: 330%;
+}
+
+.cartInfo {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 390px;
+  margin-left: 20px;
+}
+
+.iconoBtn{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.icono{
+  width: 15% !important;
+}
+
+.cartInfoBlack {
+  color: white;
+  background-color: #303030;
+}
+
+.cartInfoWhite {
+  color: black;
+  background-color: white;
+}
+
+.cartBotones {
+  margin: 10px;
+}
+
