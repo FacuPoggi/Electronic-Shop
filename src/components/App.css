@@ -82,49 +82,57 @@
   background-color: rgb(15, 15, 15);
 }
 
-.cardBlack{
+.cardBlack {
   background-color: #303030;
 }
 
-.cardWhite{
+.cardWhite {
   background-color: white;
 }
 
-.textBlack{
+.textBlack {
   color: white;
 }
 
-.textWhite{
+.textWhite {
   color: black;
 }
 
-.btnBlack{
+.btnBlack {
   background-color: white;
   color: #303030;
 }
 
-.btnWhite{
+.btnWhite {
   background-color: #212529;
   color: white;
 }
 
-.labelBlack{
+.labelBlack {
   color: white;
 }
 
-.labelWhite{
-color: black;
-}
-
-.textBlackNumber { 
-  color: white;
-}
-
-.textWhiteNumber{
+.labelWhite {
   color: black;
 }
 
-.contador{
+.textBlackNumber {
+  color: white;
+}
+
+.textWhiteNumber {
+  color: black;
+}
+
+.contador {
   display: flex;
   align-items: center;
+}
+
+.alertaCheckoutBlack {
+  color: white;
+}
+
+.alertaCheckoutWhite {
+color: black;
 }

@@ -66,7 +66,7 @@ const deleteProducto = async (id) => {
 
 const createOrdenCompra = async (cliente, preTotal, fecha) => {
     const ordenCompra = await addDoc(collection(dataBase, "ordenCompra"),{
-        nombreCompleto: cliente.nombre,
+        nombreCompleto: cliente.nombreCompleto,
         email: cliente.email,
         dni: cliente.dni,
         direccion: cliente.direccion,
