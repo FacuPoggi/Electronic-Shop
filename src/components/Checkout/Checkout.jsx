@@ -39,8 +39,6 @@ const Checkout = () => {
         //Errores de nombre y apellido
         if (!values.nombreCompleto) {
             errors.nombreCompleto = "Debe ingresar su nombre y apellido";
-        } else if (!regex.test(values.nombreCompleto)){
-            errors.nombreCompleto = "No utilice caracteres especiales";
         }
         //Errores del email
         if (!values.email) {
