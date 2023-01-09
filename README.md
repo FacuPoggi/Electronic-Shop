@@ -14,7 +14,3 @@ npm i
 * [React-Toastify] (https://www.npmjs.com/package/react-toastify) - React Toastify
 * [Firestore] (https://firebase.google.com/?hl=es) - NoSQL Database
 * [Bootstrap] (https://getbootstrap.com/) - Bootstrap
-
-#### Screenshots 📸
-
-![alt text](link img)
