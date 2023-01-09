@@ -91,8 +91,8 @@ const Checkout = () => {
                     prodBDD.stock -= prodCarrito.cant
                     updateProducto(prodCarrito.id, prodBDD)
                 } else {
-                    console.log("stock no valido");
-                    // Caso uso producto no comprado
+                    toast.error(`El producto ${prodBDD.nombre} no posee stock suficiente`)
+                    emptyCart()
                 }
             })
         })

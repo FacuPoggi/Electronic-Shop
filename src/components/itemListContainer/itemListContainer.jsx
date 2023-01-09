@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import ItemList from "../ItemList/ItemList";
 //import { consultarBDD } from "../../assets/funtions"
-import { cargarBDD, getProductos, getProducto, updateProducto, deleteProducto } from "../../assets/firebase";
+import { getProductos } from "../../assets/firebase";
 //ItemListContainer consulta la BDD
 
 const ItemListContainer = ({ }) => {
