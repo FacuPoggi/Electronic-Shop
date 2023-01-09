@@ -10,10 +10,10 @@ npm i
 ```
 
 ### Construido con 👷
-[React] (https://es.reactjs.org/) - JavaScript Framework
-[React-Toastify] (https://www.npmjs.com/package/react-toastify) - React Toastify
-[Firestore] (https://firebase.google.com/?hl=es) - NoSQL Database
-[Bootstrap] (https://getbootstrap.com/) - Bootstrap
+* [React] (https://es.reactjs.org/) - JavaScript Framework
+* [React-Toastify] (https://www.npmjs.com/package/react-toastify) - React Toastify
+* [Firestore] (https://firebase.google.com/?hl=es) - NoSQL Database
+* [Bootstrap] (https://getbootstrap.com/) - Bootstrap
 
 #### Screenshots 📸
 
