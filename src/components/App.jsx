@@ -11,8 +11,8 @@ import { DarkModeProvider } from '../context/DarkModeContext';
 import { ToastContainer } from 'react-toastify';
 
 //Componentes
-import ItemListContainer from './ItemListContainer/ItemListContainer';
-import Navbar from './Navbar/Navbar';
+import ItemListContainer from './itemListContainer/ItemListContainer';
+import Navbar from './navbar/Navbar';
 import ItemDetailContainer from './ItemDetailContainer/ItemDetailContainer';
 import Cart from './Cart/Cart';
 import Checkout from './Checkout/Checkout';
