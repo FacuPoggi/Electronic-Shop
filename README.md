@@ -2,8 +2,6 @@
 
 _Proyecto final del curso de React.js de Coderhouse. Se trata de un ecommerce funcional. Comisión 41100_
 
-
-...
 ## Requerimientos previos 📋
 _Para utilizar la aplicación necesita instalar las siguientes dependencias:_
 
