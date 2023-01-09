@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 
 import BotonDarkMode from "./BotonDarkMode/BotonDarkMode";
-import CartWidget from "../CartWidget/CartWidget";
-import Categorias from "./Categorias/Categorias";
+import CartWidget from "../cartWidget/CartWidget";
+import Categorias from "./categorias/Categorias";
 
 
 const Navbar = () => {
